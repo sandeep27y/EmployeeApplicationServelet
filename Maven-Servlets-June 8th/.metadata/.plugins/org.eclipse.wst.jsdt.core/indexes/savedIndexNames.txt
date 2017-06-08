@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\sandeep madineni\Desktop\JAVA-IMCS Training\Maven-Servlets-June 8th\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+738853012.index
+1215245265.index
+351559796.index
+1227995662.index
+4092667284.index

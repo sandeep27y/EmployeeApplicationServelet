@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="employee.do">
+<input type="Submit" value="DOGet">
+<input type="Submit" value="DOPost">
+</form>
+</body>
+</html>

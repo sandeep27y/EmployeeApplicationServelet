@@ -1,0 +1,12 @@
+package com.employee.service;
+
+import com.employee.dao.EmployeeDAO;
+
+public class EmployeeService {
+	
+	public void getEmployeeInformation(int id){
+		EmployeeDAO employeeDAO = new EmployeeDAO();
+		employeeDAO.getEmployee(id);
+	}
+
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- <form action="/EmployeeApplication/employeeget.do" method="get">
+<input type="Submit" value="DOGet">
+</form> -->
+<form action="/EmployeeApplication/employeepost.do" method="post">
+<input type="Submit" value="DOPost">
+</form>
+</body>
+</html>
